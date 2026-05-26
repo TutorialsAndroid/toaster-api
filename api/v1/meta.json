@@ -1,0 +1,9 @@
+{
+  "name": "Toaster API",
+  "slug": "toaster-api",
+  "version": "1.0.0",
+  "description": "A fun static JSON API for jokes, quotes, facts, roasts, motivation, and toast-style content.",
+  "updated_at": "2026-05-26",
+  "license": "MIT",
+  "author": "TutorialsAndroid"
+}

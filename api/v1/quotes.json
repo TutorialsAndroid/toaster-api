@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "name": "Toaster API",
+    "slug": "toaster-api",
+    "version": "1.0.0",
+    "description": "Fun and motivational quotes.",
+    "updated_at": "2026-05-26",
+    "license": "MIT",
+    "author": "TutorialsAndroid",
+    "endpoint": "quotes"
+  },
+  "count": 10,
+  "items": [
+    {
+      "id": "quote-001",
+      "type": "quote",
+      "category": "motivation",
+      "content": "Small consistent efforts become big visible results.",
+      "tags": [
+        "motivation",
+        "growth"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "quote-002",
+      "type": "quote",
+      "category": "developer",
+      "content": "Clean code is kindness for your future self.",
+      "tags": [
+        "developer",
+        "clean-code"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "quote-003",
+      "type": "quote",
+      "category": "fun",
+      "content": "Stay crispy, stay curious.",
+      "tags": [
+        "fun",
+        "curiosity"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "quote-004",
+      "type": "quote",
+      "category": "productivity",
+      "content": "Progress is built one focused request at a time.",
+      "tags": [
+        "productivity",
+        "progress"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "quote-005",
+      "type": "quote",
+      "category": "developer",
+      "content": "The best API is the one developers understand in seconds.",
+      "tags": [
+        "api",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "quote-006",
+      "type": "quote",
+      "category": "motivation",
+      "content": "Start simple. Improve loudly. Ship proudly.",
+      "tags": [
+        "shipping",
+        "motivation"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "quote-007",
+      "type": "quote",
+      "category": "creative",
+      "content": "Every useful project starts as a playful idea.",
+      "tags": [
+        "creative",
+        "project"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "quote-008",
+      "type": "quote",
+      "category": "developer",
+      "content": "Documentation turns code into a product.",
+      "tags": [
+        "documentation",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "quote-009",
+      "type": "quote",
+      "category": "motivation",
+      "content": "Build something small today that future you will thank you for.",
+      "tags": [
+        "motivation",
+        "build"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "quote-010",
+      "type": "quote",
+      "category": "fun",
+      "content": "Be the toast that pops higher.",
+      "tags": [
+        "toast",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    }
+  ]
+}

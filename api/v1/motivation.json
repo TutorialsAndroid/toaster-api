@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "name": "Toaster API",
+    "slug": "toaster-api",
+    "version": "1.0.0",
+    "description": "Motivational lines.",
+    "updated_at": "2026-05-26",
+    "license": "MIT",
+    "author": "TutorialsAndroid",
+    "endpoint": "motivation"
+  },
+  "count": 10,
+  "items": [
+    {
+      "id": "motivation-001",
+      "type": "motivation",
+      "category": "daily",
+      "content": "You do not need perfect code. You need working progress.",
+      "tags": [
+        "motivation",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "motivation-002",
+      "type": "motivation",
+      "category": "daily",
+      "content": "Ship the first version. Improve the next one.",
+      "tags": [
+        "shipping",
+        "growth"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "motivation-003",
+      "type": "motivation",
+      "category": "focus",
+      "content": "One clean step today is better than ten ideas left untouched.",
+      "tags": [
+        "focus",
+        "productivity"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "motivation-004",
+      "type": "motivation",
+      "category": "developer",
+      "content": "Every bug fixed is proof that you are getting sharper.",
+      "tags": [
+        "developer",
+        "debugging"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "motivation-005",
+      "type": "motivation",
+      "category": "daily",
+      "content": "Your project does not need permission to become useful.",
+      "tags": [
+        "project",
+        "motivation"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "motivation-006",
+      "type": "motivation",
+      "category": "focus",
+      "content": "Make it simple, make it stable, then make it beautiful.",
+      "tags": [
+        "product",
+        "quality"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "motivation-007",
+      "type": "motivation",
+      "category": "developer",
+      "content": "Readable code is a gift to every developer after you, including you.",
+      "tags": [
+        "code",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "motivation-008",
+      "type": "motivation",
+      "category": "daily",
+      "content": "Small APIs can still create big impressions.",
+      "tags": [
+        "api",
+        "motivation"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "motivation-009",
+      "type": "motivation",
+      "category": "focus",
+      "content": "Do one thing well enough that people remember it.",
+      "tags": [
+        "focus",
+        "branding"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "motivation-010",
+      "type": "motivation",
+      "category": "daily",
+      "content": "Keep building. Your future portfolio is watching.",
+      "tags": [
+        "portfolio",
+        "motivation"
+      ],
+      "language": "en",
+      "safe": true
+    }
+  ]
+}

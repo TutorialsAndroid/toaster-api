@@ -1,0 +1,68 @@
+{
+  "name": "Toaster API",
+  "slug": "toaster-api",
+  "version": "1.0.0",
+  "description": "A fun static JSON API for jokes, quotes, facts, roasts, motivation, and toast-style content.",
+  "updated_at": "2026-05-26",
+  "license": "MIT",
+  "author": "TutorialsAndroid",
+  "static_api": true,
+  "base_urls": {
+    "jsdelivr_main": "https://cdn.jsdelivr.net/gh/TutorialsAndroid/toaster-api@main/api/v1",
+    "jsdelivr_release": "https://cdn.jsdelivr.net/gh/TutorialsAndroid/toaster-api@1.0.0/api/v1",
+    "github_pages": "https://TutorialsAndroid.github.io/toaster-api/api/v1"
+  },
+  "endpoints": [
+    {
+      "name": "API Index",
+      "path": "/index.json",
+      "url": "https://cdn.jsdelivr.net/gh/TutorialsAndroid/toaster-api@main/api/v1/index.json"
+    },
+    {
+      "name": "Metadata",
+      "path": "/meta.json",
+      "url": "https://cdn.jsdelivr.net/gh/TutorialsAndroid/toaster-api@main/api/v1/meta.json"
+    },
+    {
+      "name": "Toasts",
+      "path": "/toasts.json",
+      "url": "https://cdn.jsdelivr.net/gh/TutorialsAndroid/toaster-api@main/api/v1/toasts.json"
+    },
+    {
+      "name": "Jokes",
+      "path": "/jokes.json",
+      "url": "https://cdn.jsdelivr.net/gh/TutorialsAndroid/toaster-api@main/api/v1/jokes.json"
+    },
+    {
+      "name": "Quotes",
+      "path": "/quotes.json",
+      "url": "https://cdn.jsdelivr.net/gh/TutorialsAndroid/toaster-api@main/api/v1/quotes.json"
+    },
+    {
+      "name": "Facts",
+      "path": "/facts.json",
+      "url": "https://cdn.jsdelivr.net/gh/TutorialsAndroid/toaster-api@main/api/v1/facts.json"
+    },
+    {
+      "name": "Roasts",
+      "path": "/roasts.json",
+      "url": "https://cdn.jsdelivr.net/gh/TutorialsAndroid/toaster-api@main/api/v1/roasts.json"
+    },
+    {
+      "name": "Motivation",
+      "path": "/motivation.json",
+      "url": "https://cdn.jsdelivr.net/gh/TutorialsAndroid/toaster-api@main/api/v1/motivation.json"
+    },
+    {
+      "name": "Mixed",
+      "path": "/mixed.json",
+      "url": "https://cdn.jsdelivr.net/gh/TutorialsAndroid/toaster-api@main/api/v1/mixed.json"
+    },
+    {
+      "name": "Schema",
+      "path": "/schema.json",
+      "url": "https://cdn.jsdelivr.net/gh/TutorialsAndroid/toaster-api@main/api/v1/schema.json"
+    }
+  ],
+  "usage_note": "This is a static JSON API. Use the JS client or your app code to pick random items client-side."
+}

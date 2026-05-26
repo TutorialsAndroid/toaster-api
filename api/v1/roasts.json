@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "name": "Toaster API",
+    "slug": "toaster-api",
+    "version": "1.0.0",
+    "description": "Friendly roast lines.",
+    "updated_at": "2026-05-26",
+    "license": "MIT",
+    "author": "TutorialsAndroid",
+    "endpoint": "roasts"
+  },
+  "count": 10,
+  "items": [
+    {
+      "id": "roast-001",
+      "type": "roast",
+      "category": "friendly",
+      "content": "Your Wi-Fi has more confidence than your last commit message.",
+      "tags": [
+        "friendly",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-002",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your code has personality. Unfortunately, it has too many personalities.",
+      "tags": [
+        "developer",
+        "code"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-003",
+      "type": "roast",
+      "category": "friendly",
+      "content": "You debug like a detective who lost the magnifying glass.",
+      "tags": [
+        "debugging",
+        "friendly"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-004",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your TODO comments have started forming a startup.",
+      "tags": [
+        "developer",
+        "todo"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-005",
+      "type": "roast",
+      "category": "friendly",
+      "content": "That plan was so lightweight even the toaster refused to carry it.",
+      "tags": [
+        "fun",
+        "friendly"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-006",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your console logs are doing more work than the actual function.",
+      "tags": [
+        "javascript",
+        "debugging"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-007",
+      "type": "roast",
+      "category": "friendly",
+      "content": "You have main character energy and beta-release stability.",
+      "tags": [
+        "fun",
+        "friendly"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-008",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your variable names look like they were generated during a power cut.",
+      "tags": [
+        "developer",
+        "naming"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-009",
+      "type": "roast",
+      "category": "friendly",
+      "content": "You are not lazy. You are just buffering in HD.",
+      "tags": [
+        "fun",
+        "friendly"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-010",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your API is so mysterious even Swagger asked for documentation.",
+      "tags": [
+        "api",
+        "docs"
+      ],
+      "language": "en",
+      "safe": true
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "name": "Toaster API",
+    "slug": "toaster-api",
+    "version": "1.0.0",
+    "description": "Toast-style fun one-liners.",
+    "updated_at": "2026-05-26",
+    "license": "MIT",
+    "author": "TutorialsAndroid",
+    "endpoint": "toasts"
+  },
+  "count": 10,
+  "items": [
+    {
+      "id": "toast-001",
+      "type": "toast",
+      "category": "fun",
+      "content": "Fresh toast delivered. No crumbs attached.",
+      "tags": [
+        "toast",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-002",
+      "type": "toast",
+      "category": "developer",
+      "content": "Your code is compiling. The toaster approves.",
+      "tags": [
+        "developer",
+        "code"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-003",
+      "type": "toast",
+      "category": "daily",
+      "content": "A small toast for a big win today.",
+      "tags": [
+        "daily",
+        "positive"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-004",
+      "type": "toast",
+      "category": "fun",
+      "content": "Crispy outside, chaotic inside. Perfectly toasted.",
+      "tags": [
+        "fun",
+        "random"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-005",
+      "type": "toast",
+      "category": "developer",
+      "content": "404: Burnt toast not found.",
+      "tags": [
+        "developer",
+        "404"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-006",
+      "type": "toast",
+      "category": "productivity",
+      "content": "Pop up, show up, level up.",
+      "tags": [
+        "productivity",
+        "motivation"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-007",
+      "type": "toast",
+      "category": "fun",
+      "content": "This toast was loaded from a CDN and still came hot.",
+      "tags": [
+        "cdn",
+        "api",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-008",
+      "type": "toast",
+      "category": "developer",
+      "content": "Your API call has been toasted successfully.",
+      "tags": [
+        "api",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-009",
+      "type": "toast",
+      "category": "daily",
+      "content": "Tiny toast. Big energy.",
+      "tags": [
+        "daily",
+        "energy"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-010",
+      "type": "toast",
+      "category": "fun",
+      "content": "Bread went in. Confidence came out.",
+      "tags": [
+        "fun",
+        "confidence"
+      ],
+      "language": "en",
+      "safe": true
+    }
+  ]
+}

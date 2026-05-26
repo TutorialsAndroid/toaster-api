@@ -1,0 +1,738 @@
+{
+  "meta": {
+    "name": "Toaster API",
+    "slug": "toaster-api",
+    "version": "1.0.0",
+    "description": "Combined mixed content from every category.",
+    "updated_at": "2026-05-26",
+    "license": "MIT",
+    "author": "TutorialsAndroid",
+    "endpoint": "mixed"
+  },
+  "count": 60,
+  "items": [
+    {
+      "id": "toast-001",
+      "type": "toast",
+      "category": "fun",
+      "content": "Fresh toast delivered. No crumbs attached.",
+      "tags": [
+        "toast",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-002",
+      "type": "toast",
+      "category": "developer",
+      "content": "Your code is compiling. The toaster approves.",
+      "tags": [
+        "developer",
+        "code"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-003",
+      "type": "toast",
+      "category": "daily",
+      "content": "A small toast for a big win today.",
+      "tags": [
+        "daily",
+        "positive"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-004",
+      "type": "toast",
+      "category": "fun",
+      "content": "Crispy outside, chaotic inside. Perfectly toasted.",
+      "tags": [
+        "fun",
+        "random"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-005",
+      "type": "toast",
+      "category": "developer",
+      "content": "404: Burnt toast not found.",
+      "tags": [
+        "developer",
+        "404"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-006",
+      "type": "toast",
+      "category": "productivity",
+      "content": "Pop up, show up, level up.",
+      "tags": [
+        "productivity",
+        "motivation"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-007",
+      "type": "toast",
+      "category": "fun",
+      "content": "This toast was loaded from a CDN and still came hot.",
+      "tags": [
+        "cdn",
+        "api",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-008",
+      "type": "toast",
+      "category": "developer",
+      "content": "Your API call has been toasted successfully.",
+      "tags": [
+        "api",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-009",
+      "type": "toast",
+      "category": "daily",
+      "content": "Tiny toast. Big energy.",
+      "tags": [
+        "daily",
+        "energy"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-010",
+      "type": "toast",
+      "category": "fun",
+      "content": "Bread went in. Confidence came out.",
+      "tags": [
+        "fun",
+        "confidence"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-001",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the developer go broke? Because he used up all his cache.",
+      "tags": [
+        "developer",
+        "programming",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-002",
+      "type": "joke",
+      "category": "developer",
+      "content": "I told my API a joke. It returned 200 OK but no one laughed.",
+      "tags": [
+        "api",
+        "http",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-003",
+      "type": "joke",
+      "category": "tech",
+      "content": "Why did the computer visit the doctor? It had a virus and too many tabs open.",
+      "tags": [
+        "tech",
+        "computer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-004",
+      "type": "joke",
+      "category": "developer",
+      "content": "Debugging is like being a detective where you are also the suspect.",
+      "tags": [
+        "debugging",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-005",
+      "type": "joke",
+      "category": "food",
+      "content": "Why did the bread apply for a job? It wanted to make some dough.",
+      "tags": [
+        "food",
+        "toast"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-006",
+      "type": "joke",
+      "category": "developer",
+      "content": "My code works on my machine because my machine fears me.",
+      "tags": [
+        "developer",
+        "code"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-007",
+      "type": "joke",
+      "category": "tech",
+      "content": "I asked Wi-Fi for advice. It said I needed a stronger connection.",
+      "tags": [
+        "wifi",
+        "tech"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-008",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why was the JSON file calm? Because it had structure.",
+      "tags": [
+        "json",
+        "api"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-009",
+      "type": "joke",
+      "category": "developer",
+      "content": "A semicolon walked into JavaScript. Nobody noticed.",
+      "tags": [
+        "javascript",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-010",
+      "type": "joke",
+      "category": "fun",
+      "content": "The toaster joined the cloud. Now every toast is serverless.",
+      "tags": [
+        "serverless",
+        "toast"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "quote-001",
+      "type": "quote",
+      "category": "motivation",
+      "content": "Small consistent efforts become big visible results.",
+      "tags": [
+        "motivation",
+        "growth"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "quote-002",
+      "type": "quote",
+      "category": "developer",
+      "content": "Clean code is kindness for your future self.",
+      "tags": [
+        "developer",
+        "clean-code"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "quote-003",
+      "type": "quote",
+      "category": "fun",
+      "content": "Stay crispy, stay curious.",
+      "tags": [
+        "fun",
+        "curiosity"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "quote-004",
+      "type": "quote",
+      "category": "productivity",
+      "content": "Progress is built one focused request at a time.",
+      "tags": [
+        "productivity",
+        "progress"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "quote-005",
+      "type": "quote",
+      "category": "developer",
+      "content": "The best API is the one developers understand in seconds.",
+      "tags": [
+        "api",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "quote-006",
+      "type": "quote",
+      "category": "motivation",
+      "content": "Start simple. Improve loudly. Ship proudly.",
+      "tags": [
+        "shipping",
+        "motivation"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "quote-007",
+      "type": "quote",
+      "category": "creative",
+      "content": "Every useful project starts as a playful idea.",
+      "tags": [
+        "creative",
+        "project"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "quote-008",
+      "type": "quote",
+      "category": "developer",
+      "content": "Documentation turns code into a product.",
+      "tags": [
+        "documentation",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "quote-009",
+      "type": "quote",
+      "category": "motivation",
+      "content": "Build something small today that future you will thank you for.",
+      "tags": [
+        "motivation",
+        "build"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "quote-010",
+      "type": "quote",
+      "category": "fun",
+      "content": "Be the toast that pops higher.",
+      "tags": [
+        "toast",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "fact-001",
+      "type": "fact",
+      "category": "tech",
+      "content": "JSON stands for JavaScript Object Notation, but it is language-independent.",
+      "tags": [
+        "json",
+        "tech"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "fact-002",
+      "type": "fact",
+      "category": "web",
+      "content": "CDNs help deliver static files closer to users for faster loading.",
+      "tags": [
+        "cdn",
+        "web"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "fact-003",
+      "type": "fact",
+      "category": "food",
+      "content": "Toast became popular because heating bread improves texture and flavor.",
+      "tags": [
+        "toast",
+        "food"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "fact-004",
+      "type": "fact",
+      "category": "api",
+      "content": "A static API is usually read-only and serves prebuilt files like JSON.",
+      "tags": [
+        "api",
+        "static"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "fact-005",
+      "type": "fact",
+      "category": "developer",
+      "content": "Versioning APIs helps apps avoid breaking when data structures change.",
+      "tags": [
+        "api",
+        "versioning"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "fact-006",
+      "type": "fact",
+      "category": "web",
+      "content": "Git tags are useful for creating stable public release URLs.",
+      "tags": [
+        "git",
+        "release"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "fact-007",
+      "type": "fact",
+      "category": "data",
+      "content": "Consistent IDs make API data easier to reference, cache, and debug.",
+      "tags": [
+        "data",
+        "ids"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "fact-008",
+      "type": "fact",
+      "category": "developer",
+      "content": "Good API examples reduce integration time for developers.",
+      "tags": [
+        "api",
+        "docs"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "fact-009",
+      "type": "fact",
+      "category": "web",
+      "content": "Public static JSON files can be consumed by websites, apps, scripts, and documentation pages.",
+      "tags": [
+        "json",
+        "web"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "fact-010",
+      "type": "fact",
+      "category": "fun",
+      "content": "A toaster API sounds silly, which makes it surprisingly memorable.",
+      "tags": [
+        "branding",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-001",
+      "type": "roast",
+      "category": "friendly",
+      "content": "Your Wi-Fi has more confidence than your last commit message.",
+      "tags": [
+        "friendly",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-002",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your code has personality. Unfortunately, it has too many personalities.",
+      "tags": [
+        "developer",
+        "code"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-003",
+      "type": "roast",
+      "category": "friendly",
+      "content": "You debug like a detective who lost the magnifying glass.",
+      "tags": [
+        "debugging",
+        "friendly"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-004",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your TODO comments have started forming a startup.",
+      "tags": [
+        "developer",
+        "todo"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-005",
+      "type": "roast",
+      "category": "friendly",
+      "content": "That plan was so lightweight even the toaster refused to carry it.",
+      "tags": [
+        "fun",
+        "friendly"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-006",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your console logs are doing more work than the actual function.",
+      "tags": [
+        "javascript",
+        "debugging"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-007",
+      "type": "roast",
+      "category": "friendly",
+      "content": "You have main character energy and beta-release stability.",
+      "tags": [
+        "fun",
+        "friendly"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-008",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your variable names look like they were generated during a power cut.",
+      "tags": [
+        "developer",
+        "naming"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-009",
+      "type": "roast",
+      "category": "friendly",
+      "content": "You are not lazy. You are just buffering in HD.",
+      "tags": [
+        "fun",
+        "friendly"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-010",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your API is so mysterious even Swagger asked for documentation.",
+      "tags": [
+        "api",
+        "docs"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "motivation-001",
+      "type": "motivation",
+      "category": "daily",
+      "content": "You do not need perfect code. You need working progress.",
+      "tags": [
+        "motivation",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "motivation-002",
+      "type": "motivation",
+      "category": "daily",
+      "content": "Ship the first version. Improve the next one.",
+      "tags": [
+        "shipping",
+        "growth"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "motivation-003",
+      "type": "motivation",
+      "category": "focus",
+      "content": "One clean step today is better than ten ideas left untouched.",
+      "tags": [
+        "focus",
+        "productivity"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "motivation-004",
+      "type": "motivation",
+      "category": "developer",
+      "content": "Every bug fixed is proof that you are getting sharper.",
+      "tags": [
+        "developer",
+        "debugging"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "motivation-005",
+      "type": "motivation",
+      "category": "daily",
+      "content": "Your project does not need permission to become useful.",
+      "tags": [
+        "project",
+        "motivation"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "motivation-006",
+      "type": "motivation",
+      "category": "focus",
+      "content": "Make it simple, make it stable, then make it beautiful.",
+      "tags": [
+        "product",
+        "quality"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "motivation-007",
+      "type": "motivation",
+      "category": "developer",
+      "content": "Readable code is a gift to every developer after you, including you.",
+      "tags": [
+        "code",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "motivation-008",
+      "type": "motivation",
+      "category": "daily",
+      "content": "Small APIs can still create big impressions.",
+      "tags": [
+        "api",
+        "motivation"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "motivation-009",
+      "type": "motivation",
+      "category": "focus",
+      "content": "Do one thing well enough that people remember it.",
+      "tags": [
+        "focus",
+        "branding"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "motivation-010",
+      "type": "motivation",
+      "category": "daily",
+      "content": "Keep building. Your future portfolio is watching.",
+      "tags": [
+        "portfolio",
+        "motivation"
+      ],
+      "language": "en",
+      "safe": true
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "name": "Toaster API",
+    "slug": "toaster-api",
+    "version": "1.0.0",
+    "description": "Interesting small facts.",
+    "updated_at": "2026-05-26",
+    "license": "MIT",
+    "author": "TutorialsAndroid",
+    "endpoint": "facts"
+  },
+  "count": 10,
+  "items": [
+    {
+      "id": "fact-001",
+      "type": "fact",
+      "category": "tech",
+      "content": "JSON stands for JavaScript Object Notation, but it is language-independent.",
+      "tags": [
+        "json",
+        "tech"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "fact-002",
+      "type": "fact",
+      "category": "web",
+      "content": "CDNs help deliver static files closer to users for faster loading.",
+      "tags": [
+        "cdn",
+        "web"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "fact-003",
+      "type": "fact",
+      "category": "food",
+      "content": "Toast became popular because heating bread improves texture and flavor.",
+      "tags": [
+        "toast",
+        "food"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "fact-004",
+      "type": "fact",
+      "category": "api",
+      "content": "A static API is usually read-only and serves prebuilt files like JSON.",
+      "tags": [
+        "api",
+        "static"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "fact-005",
+      "type": "fact",
+      "category": "developer",
+      "content": "Versioning APIs helps apps avoid breaking when data structures change.",
+      "tags": [
+        "api",
+        "versioning"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "fact-006",
+      "type": "fact",
+      "category": "web",
+      "content": "Git tags are useful for creating stable public release URLs.",
+      "tags": [
+        "git",
+        "release"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "fact-007",
+      "type": "fact",
+      "category": "data",
+      "content": "Consistent IDs make API data easier to reference, cache, and debug.",
+      "tags": [
+        "data",
+        "ids"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "fact-008",
+      "type": "fact",
+      "category": "developer",
+      "content": "Good API examples reduce integration time for developers.",
+      "tags": [
+        "api",
+        "docs"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "fact-009",
+      "type": "fact",
+      "category": "web",
+      "content": "Public static JSON files can be consumed by websites, apps, scripts, and documentation pages.",
+      "tags": [
+        "json",
+        "web"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "fact-010",
+      "type": "fact",
+      "category": "fun",
+      "content": "A toaster API sounds silly, which makes it surprisingly memorable.",
+      "tags": [
+        "branding",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    }
+  ]
+}

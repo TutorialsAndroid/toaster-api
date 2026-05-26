@@ -1,0 +1,27 @@
+{
+  "name": "toaster-api",
+  "version": "1.0.0",
+  "description": "A fun static JSON API for jokes, quotes, facts, roasts, motivation, and toast-style content.",
+  "main": "clients/toaster.js",
+  "scripts": {
+    "validate": "node scripts/validate-json.mjs",
+    "serve": "npx http-server . -p 8080 -c-1"
+  },
+  "keywords": [
+    "api",
+    "static-api",
+    "json-api",
+    "fun-api",
+    "cdn-api",
+    "jsdelivr",
+    "github-pages",
+    "jokes",
+    "quotes",
+    "facts"
+  ],
+  "author": "TutorialsAndroid",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "name": "Toaster API",
+    "slug": "toaster-api",
+    "version": "1.0.0",
+    "description": "Developer and general jokes.",
+    "updated_at": "2026-05-26",
+    "license": "MIT",
+    "author": "TutorialsAndroid",
+    "endpoint": "jokes"
+  },
+  "count": 10,
+  "items": [
+    {
+      "id": "joke-001",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the developer go broke? Because he used up all his cache.",
+      "tags": [
+        "developer",
+        "programming",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-002",
+      "type": "joke",
+      "category": "developer",
+      "content": "I told my API a joke. It returned 200 OK but no one laughed.",
+      "tags": [
+        "api",
+        "http",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-003",
+      "type": "joke",
+      "category": "tech",
+      "content": "Why did the computer visit the doctor? It had a virus and too many tabs open.",
+      "tags": [
+        "tech",
+        "computer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-004",
+      "type": "joke",
+      "category": "developer",
+      "content": "Debugging is like being a detective where you are also the suspect.",
+      "tags": [
+        "debugging",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-005",
+      "type": "joke",
+      "category": "food",
+      "content": "Why did the bread apply for a job? It wanted to make some dough.",
+      "tags": [
+        "food",
+        "toast"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-006",
+      "type": "joke",
+      "category": "developer",
+      "content": "My code works on my machine because my machine fears me.",
+      "tags": [
+        "developer",
+        "code"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-007",
+      "type": "joke",
+      "category": "tech",
+      "content": "I asked Wi-Fi for advice. It said I needed a stronger connection.",
+      "tags": [
+        "wifi",
+        "tech"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-008",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why was the JSON file calm? Because it had structure.",
+      "tags": [
+        "json",
+        "api"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-009",
+      "type": "joke",
+      "category": "developer",
+      "content": "A semicolon walked into JavaScript. Nobody noticed.",
+      "tags": [
+        "javascript",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-010",
+      "type": "joke",
+      "category": "fun",
+      "content": "The toaster joined the cloud. Now every toast is serverless.",
+      "tags": [
+        "serverless",
+        "toast"
+      ],
+      "language": "en",
+      "safe": true
+    }
+  ]
+}

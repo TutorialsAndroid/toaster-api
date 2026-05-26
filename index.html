@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Toaster API 🍞🔥 - Fun Static JSON API</title>
+  <meta name="description" content="Toaster API is a fun static JSON API for jokes, quotes, facts, roasts, motivation, and toast-style content hosted on GitHub and jsDelivr." />
+
+  <meta property="og:title" content="Toaster API 🍞🔥" />
+  <meta property="og:description" content="Fresh random fun, popped hot from a CDN." />
+  <meta property="og:type" content="website" />
+
+  <style>
+    :root {
+      --bg: #120b05;
+      --card: rgba(255, 255, 255, 0.08);
+      --card-border: rgba(255, 255, 255, 0.14);
+      --text: #fff7ed;
+      --muted: #fed7aa;
+      --accent: #fb923c;
+      --accent-2: #f97316;
+      --dark: #1c120b;
+      --white: #ffffff;
+      --shadow: 0 24px 80px rgba(0, 0, 0, 0.35);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background:
+        radial-gradient(circle at top left, rgba(251, 146, 60, 0.35), transparent 32%),
+        radial-gradient(circle at bottom right, rgba(249, 115, 22, 0.25), transparent 30%),
+        var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    a {
+      color: inherit;
+    }
+
+    .container {
+      width: min(1120px, calc(100% - 32px));
+      margin: auto;
+    }
+
+    .nav {
+      padding: 22px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .brand {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      font-weight: 900;
+      letter-spacing: -0.03em;
+      font-size: 22px;
+    }
+
+    .badge {
+      display: inline-flex;
+      padding: 8px 14px;
+      border: 1px solid var(--card-border);
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.08);
+      color: var(--muted);
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .hero {
+      padding: 64px 0 42px;
+      text-align: center;
+    }
+
+    .hero h1 {
+      max-width: 900px;
+      margin: 20px auto 16px;
+      font-size: clamp(44px, 8vw, 92px);
+      line-height: 0.95;
+      letter-spacing: -0.08em;
+    }
+
+    .hero p {
+      max-width: 740px;
+      margin: 0 auto;
+      color: var(--muted);
+      font-size: clamp(17px, 2vw, 22px);
+    }
+
+    .actions {
+      margin-top: 34px;
+      display: flex;
+      gap: 14px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      border: 0;
+      border-radius: 16px;
+      padding: 14px 20px;
+      background: linear-gradient(135deg, var(--accent), var(--accent-2));
+      color: var(--dark);
+      font-weight: 900;
+      text-decoration: none;
+      box-shadow: var(--shadow);
+      cursor: pointer;
+    }
+
+    .btn.secondary {
+      color: var(--white);
+      background: rgba(255, 255, 255, 0.1);
+      border: 1px solid var(--card-border);
+    }
+
+    .toast-box {
+      margin: 40px auto 0;
+      max-width: 760px;
+      border: 1px solid var(--card-border);
+      border-radius: 28px;
+      background: rgba(255, 255, 255, 0.08);
+      box-shadow: var(--shadow);
+      padding: 26px;
+      text-align: left;
+      backdrop-filter: blur(18px);
+    }
+
+    .toast-box small {
+      color: var(--muted);
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+    }
+
+    .toast-content {
+      margin: 10px 0 0;
+      font-size: clamp(22px, 3vw, 34px);
+      line-height: 1.2;
+      font-weight: 900;
+      letter-spacing: -0.03em;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 18px;
+      margin: 54px 0;
+    }
+
+    .card {
+      padding: 22px;
+      background: var(--card);
+      border: 1px solid var(--card-border);
+      border-radius: 24px;
+      box-shadow: var(--shadow);
+    }
+
+    .card h3 {
+      margin: 0 0 8px;
+      font-size: 20px;
+    }
+
+    .card p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .code {
+      background: #090604;
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 22px;
+      padding: 18px;
+      overflow-x: auto;
+      color: #ffedd5;
+      margin-bottom: 64px;
+    }
+
+    code {
+      font-family: "JetBrains Mono", "Fira Code", Consolas, monospace;
+      font-size: 14px;
+    }
+
+    footer {
+      padding: 32px 0 48px;
+      color: var(--muted);
+      text-align: center;
+    }
+
+    @media (max-width: 820px) {
+      .grid {
+        grid-template-columns: 1fr;
+      }
+
+      .nav {
+        align-items: flex-start;
+        gap: 14px;
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="container">
+    <nav class="nav">
+      <div class="brand">🍞🔥 Toaster API</div>
+      <span class="badge">Static JSON API · GitHub · jsDelivr</span>
+    </nav>
+
+    <section class="hero">
+      <span class="badge">Fresh random fun, popped hot from a CDN.</span>
+      <h1>A tiny fun API for jokes, quotes, facts, roasts, and motivation.</h1>
+      <p>
+        Toaster API is a free, open-source, static JSON API that can be hosted on GitHub,
+        served through jsDelivr, and used in websites, Android apps, docs, demos, and fun projects.
+      </p>
+
+      <div class="actions">
+        <a class="btn" href="./api/v1/index.json">View API Index</a>
+        <a class="btn secondary" href="https://github.com/TutorialsAndroid/toaster-api">GitHub Repo</a>
+      </div>
+
+      <div class="toast-box">
+        <small>Live Random Toast</small>
+        <div id="toastContent" class="toast-content">Loading a fresh toast...</div>
+      </div>
+    </section>
+
+    <section class="grid">
+      <div class="card">
+        <h3>⚡ CDN Ready</h3>
+        <p>Serve JSON files globally using jsDelivr with clean versioned URLs.</p>
+      </div>
+      <div class="card">
+        <h3>🧱 Static First</h3>
+        <p>No server, no database, no hosting bill. Just GitHub and JSON files.</p>
+      </div>
+      <div class="card">
+        <h3>🎲 Random Client</h3>
+        <p>Use the included JavaScript helper to pick random content client-side.</p>
+      </div>
+    </section>
+
+    <pre class="code"><code>fetch("https://cdn.jsdelivr.net/gh/TutorialsAndroid/toaster-api@main/api/v1/jokes.json")
+  .then(res =&gt; res.json())
+  .then(data =&gt; console.log(data.items));</code></pre>
+  </main>
+
+  <footer class="container">
+    Built with 🍞 by TutorialsAndroid · MIT Licensed
+  </footer>
+
+  <script src="./clients/toaster.js"></script>
+  <script>
+    const toaster = new ToasterAPI({
+      baseUrl: "./api/v1"
+    });
+
+    toaster.random("mixed")
+      .then(item => {
+        document.getElementById("toastContent").textContent = item.content;
+      })
+      .catch(() => {
+        document.getElementById("toastContent").textContent = "Could not load toast right now.";
+      });
+  </script>
+</body>
+</html>
