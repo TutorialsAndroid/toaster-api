@@ -426,8 +426,6 @@ open-source
 * [x] GitHub Actions workflow
 * [ ] Add more jokes
 * [ ] Add more roast lines
-* [ ] Add Hindi content
-* [ ] Add Marathi content
 * [ ] Add category-specific badges
 * [ ] Add API examples for Android, Flutter, and Python
 
