@@ -492,4 +492,3 @@ Built with ❤️, 🍞, and a little chaos by <strong>TutorialsAndroid</strong>
 </p>
 
 </div>
-```
