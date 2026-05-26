@@ -14,7 +14,6 @@
 <p>
   <img src="https://img.shields.io/github/license/TutorialsAndroid/toaster-api?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/TutorialsAndroid/toaster-api?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/forks/TutorialsAndroid/toaster-api?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/issues/TutorialsAndroid/toaster-api?style=for-the-badge&logo=github" />
 </p>
 
