@@ -9,7 +9,7 @@
     "author": "TutorialsAndroid",
     "endpoint": "jokes"
   },
-  "count": 10,
+  "count": 60,
   "items": [
     {
       "id": "joke-001",
@@ -129,6 +129,656 @@
       "tags": [
         "serverless",
         "toast"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-011",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the function feel lonely? Because nobody called it.",
+      "tags": [
+        "developer",
+        "function",
+        "programming"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-012",
+      "type": "joke",
+      "category": "developer",
+      "content": "My code does not have bugs. It has unexpected guest appearances.",
+      "tags": [
+        "developer",
+        "bugs",
+        "debugging"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-013",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the API break up with the frontend? Too many unresolved requests.",
+      "tags": [
+        "api",
+        "frontend",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-014",
+      "type": "joke",
+      "category": "developer",
+      "content": "The server went to therapy because it had too many issues to process.",
+      "tags": [
+        "server",
+        "backend",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-015",
+      "type": "joke",
+      "category": "tech",
+      "content": "Why was the smartphone so calm? It was on silent mode.",
+      "tags": [
+        "tech",
+        "phone",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-016",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the database administrator leave the party? Too many relationships.",
+      "tags": [
+        "database",
+        "sql",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-017",
+      "type": "joke",
+      "category": "developer",
+      "content": "I tried to write a joke about recursion, but I had to start over again.",
+      "tags": [
+        "recursion",
+        "developer",
+        "programming"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-018",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why was the CSS file so stylish? Because it had class.",
+      "tags": [
+        "css",
+        "frontend",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-019",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did JavaScript go to school? To improve its promises.",
+      "tags": [
+        "javascript",
+        "promise",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-020",
+      "type": "joke",
+      "category": "api",
+      "content": "My API is very polite. It always says 200 OK before disappointing me.",
+      "tags": [
+        "api",
+        "http",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-021",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the developer bring a ladder? To reach the higher-order functions.",
+      "tags": [
+        "developer",
+        "functions",
+        "programming"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-022",
+      "type": "joke",
+      "category": "tech",
+      "content": "My laptop and I have trust issues. I say save, it says maybe.",
+      "tags": [
+        "laptop",
+        "tech",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-023",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the commit go to the gym? It wanted to get pushed harder.",
+      "tags": [
+        "git",
+        "commit",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-024",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did Git feel popular? Everyone kept checking it out.",
+      "tags": [
+        "git",
+        "github",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-025",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why was the variable so confident? It knew its value.",
+      "tags": [
+        "variable",
+        "programming",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-026",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the array feel organized? Everything was in order.",
+      "tags": [
+        "array",
+        "programming",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-027",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the loop get dizzy? It kept going around the same problem.",
+      "tags": [
+        "loop",
+        "programming",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-028",
+      "type": "joke",
+      "category": "developer",
+      "content": "My app crashed so smoothly, I almost called it an animation.",
+      "tags": [
+        "app",
+        "crash",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-029",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the backend developer avoid drama? They already had enough endpoints.",
+      "tags": [
+        "backend",
+        "api",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-030",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the frontend developer love breakfast? Because every div needed a toast.",
+      "tags": [
+        "frontend",
+        "toast",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-031",
+      "type": "joke",
+      "category": "tech",
+      "content": "Why was the keyboard always tired? It had too many shifts.",
+      "tags": [
+        "keyboard",
+        "tech",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-032",
+      "type": "joke",
+      "category": "developer",
+      "content": "I asked my code to explain itself. It opened 47 tabs of documentation.",
+      "tags": [
+        "documentation",
+        "developer",
+        "code"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-033",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the package manager panic? Too many dependencies were dependent on each other.",
+      "tags": [
+        "npm",
+        "dependencies",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-034",
+      "type": "joke",
+      "category": "api",
+      "content": "Why did the request feel ignored? It never got a response.",
+      "tags": [
+        "api",
+        "request",
+        "http"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-035",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the developer rename the file? It needed a fresh identity crisis.",
+      "tags": [
+        "files",
+        "developer",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-036",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why was the bug so successful? It reproduced perfectly.",
+      "tags": [
+        "bug",
+        "debugging",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-037",
+      "type": "joke",
+      "category": "tech",
+      "content": "Why did the router get promoted? It knew how to handle traffic.",
+      "tags": [
+        "router",
+        "network",
+        "tech"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-038",
+      "type": "joke",
+      "category": "developer",
+      "content": "My code runs fast. Mostly away from responsibility.",
+      "tags": [
+        "code",
+        "developer",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-039",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the JSON object feel complete? It finally found its closing brace.",
+      "tags": [
+        "json",
+        "api",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-040",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the HTML element feel important? It had a strong tag.",
+      "tags": [
+        "html",
+        "frontend",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-041",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the developer dislike elevators? Too many callbacks.",
+      "tags": [
+        "callbacks",
+        "javascript",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-042",
+      "type": "joke",
+      "category": "api",
+      "content": "Why was the endpoint always calm? It had a stable response.",
+      "tags": [
+        "api",
+        "endpoint",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-043",
+      "type": "joke",
+      "category": "developer",
+      "content": "My unit tests passed once, so I framed the screenshot.",
+      "tags": [
+        "testing",
+        "unit-tests",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-044",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the developer write comments? To apologize to the next developer.",
+      "tags": [
+        "comments",
+        "code",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-045",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the branch feel independent? It refused to merge with others.",
+      "tags": [
+        "git",
+        "branch",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-046",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the pull request blush? It got approved without changes.",
+      "tags": [
+        "github",
+        "pull-request",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-047",
+      "type": "joke",
+      "category": "tech",
+      "content": "Why did the cloud feel heavy? Too many files were uploaded.",
+      "tags": [
+        "cloud",
+        "files",
+        "tech"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-048",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why was the build pipeline confident? It had continuous support.",
+      "tags": [
+        "ci-cd",
+        "build",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-049",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the developer drink coffee? Because sleep was deprecated.",
+      "tags": [
+        "coffee",
+        "developer",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-050",
+      "type": "joke",
+      "category": "api",
+      "content": "Why did the API documentation feel proud? Developers finally read it.",
+      "tags": [
+        "api",
+        "documentation",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-051",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the boolean feel stressed? It only had two choices.",
+      "tags": [
+        "boolean",
+        "programming",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-052",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the null value feel empty? Because nobody assigned meaning to it.",
+      "tags": [
+        "null",
+        "programming",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-053",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why was the exception so dramatic? It always wanted to be thrown.",
+      "tags": [
+        "exception",
+        "error",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-054",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the IDE feel powerful? It completed everyone’s sentences.",
+      "tags": [
+        "ide",
+        "autocomplete",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-055",
+      "type": "joke",
+      "category": "tech",
+      "content": "Why did the mouse stop working? It lost its click with reality.",
+      "tags": [
+        "mouse",
+        "tech",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-056",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the Docker container feel safe? It had boundaries.",
+      "tags": [
+        "docker",
+        "container",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-057",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the regex feel misunderstood? Nobody could read its emotions.",
+      "tags": [
+        "regex",
+        "developer",
+        "programming"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-058",
+      "type": "joke",
+      "category": "developer",
+      "content": "Why did the developer trust dark mode? Because light mode exposed everything.",
+      "tags": [
+        "dark-mode",
+        "developer",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-059",
+      "type": "joke",
+      "category": "api",
+      "content": "Why did the CDN become famous? It delivered content everywhere without showing off.",
+      "tags": [
+        "cdn",
+        "api",
+        "web"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "joke-060",
+      "type": "joke",
+      "category": "toast",
+      "content": "Why did the toaster become an API? It wanted to serve hot responses.",
+      "tags": [
+        "toast",
+        "api",
+        "fun"
       ],
       "language": "en",
       "safe": true
