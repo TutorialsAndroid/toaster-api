@@ -9,7 +9,7 @@
     "author": "TutorialsAndroid",
     "endpoint": "toasts"
   },
-  "count": 10,
+  "count": 60,
   "items": [
     {
       "id": "toast-001",
@@ -128,6 +128,656 @@
       "tags": [
         "fun",
         "confidence"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-011",
+      "type": "toast",
+      "category": "fun",
+      "content": "Toast loaded successfully. Happiness is now cached.",
+      "tags": [
+        "toast",
+        "fun",
+        "cache"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-012",
+      "type": "toast",
+      "category": "developer",
+      "content": "Your code was toasted lightly and served with zero errors.",
+      "tags": [
+        "developer",
+        "code",
+        "success"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-013",
+      "type": "toast",
+      "category": "daily",
+      "content": "A fresh toast for a fresh start.",
+      "tags": [
+        "daily",
+        "positive",
+        "fresh"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-014",
+      "type": "toast",
+      "category": "api",
+      "content": "Request accepted. Toast is being prepared.",
+      "tags": [
+        "api",
+        "request",
+        "toast"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-015",
+      "type": "toast",
+      "category": "fun",
+      "content": "Warning: This toast may improve your mood.",
+      "tags": [
+        "fun",
+        "mood",
+        "positive"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-016",
+      "type": "toast",
+      "category": "developer",
+      "content": "Your build passed. The toaster is proud.",
+      "tags": [
+        "developer",
+        "build",
+        "success"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-017",
+      "type": "toast",
+      "category": "productivity",
+      "content": "One toast, one task, one win.",
+      "tags": [
+        "productivity",
+        "focus",
+        "win"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-018",
+      "type": "toast",
+      "category": "fun",
+      "content": "You have unlocked premium toast energy.",
+      "tags": [
+        "fun",
+        "energy",
+        "toast"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-019",
+      "type": "toast",
+      "category": "api",
+      "content": "200 OK: Toast delivered without crumbs.",
+      "tags": [
+        "api",
+        "http",
+        "success"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-020",
+      "type": "toast",
+      "category": "developer",
+      "content": "Your console is clean. Your toast is golden.",
+      "tags": [
+        "developer",
+        "console",
+        "clean-code"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-021",
+      "type": "toast",
+      "category": "daily",
+      "content": "Today’s toast comes with extra confidence.",
+      "tags": [
+        "daily",
+        "confidence",
+        "positive"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-022",
+      "type": "toast",
+      "category": "fun",
+      "content": "This toast has been approved by absolutely no one, but it feels right.",
+      "tags": [
+        "fun",
+        "random",
+        "toast"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-023",
+      "type": "toast",
+      "category": "developer",
+      "content": "Your function returned toast instead of chaos.",
+      "tags": [
+        "developer",
+        "function",
+        "code"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-024",
+      "type": "toast",
+      "category": "api",
+      "content": "Endpoint reached. Toast achieved.",
+      "tags": [
+        "api",
+        "endpoint",
+        "toast"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-025",
+      "type": "toast",
+      "category": "motivation",
+      "content": "Rise like bread. Shine like butter.",
+      "tags": [
+        "motivation",
+        "toast",
+        "positive"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-026",
+      "type": "toast",
+      "category": "fun",
+      "content": "Caution: Toast may contain traces of good vibes.",
+      "tags": [
+        "fun",
+        "good-vibes",
+        "toast"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-027",
+      "type": "toast",
+      "category": "developer",
+      "content": "Your pull request has been toasted and reviewed.",
+      "tags": [
+        "developer",
+        "github",
+        "pull-request"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-028",
+      "type": "toast",
+      "category": "daily",
+      "content": "Small toast. Big progress.",
+      "tags": [
+        "daily",
+        "progress",
+        "motivation"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-029",
+      "type": "toast",
+      "category": "api",
+      "content": "Your API call popped faster than expected.",
+      "tags": [
+        "api",
+        "performance",
+        "toast"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-030",
+      "type": "toast",
+      "category": "fun",
+      "content": "Toast level: perfectly chaotic.",
+      "tags": [
+        "fun",
+        "chaos",
+        "toast"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-031",
+      "type": "toast",
+      "category": "developer",
+      "content": "Your deployment is live. The toast has landed.",
+      "tags": [
+        "developer",
+        "deployment",
+        "release"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-032",
+      "type": "toast",
+      "category": "productivity",
+      "content": "Toast now. Overthink later.",
+      "tags": [
+        "productivity",
+        "focus",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-033",
+      "type": "toast",
+      "category": "daily",
+      "content": "Your daily dose of crispy confidence has arrived.",
+      "tags": [
+        "daily",
+        "confidence",
+        "toast"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-034",
+      "type": "toast",
+      "category": "api",
+      "content": "Static API, dynamic mood.",
+      "tags": [
+        "api",
+        "static-api",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-035",
+      "type": "toast",
+      "category": "fun",
+      "content": "Bread became toast and chose success.",
+      "tags": [
+        "fun",
+        "success",
+        "toast"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-036",
+      "type": "toast",
+      "category": "developer",
+      "content": "Your JSON is valid. The toaster is smiling.",
+      "tags": [
+        "developer",
+        "json",
+        "validation"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-037",
+      "type": "toast",
+      "category": "motivation",
+      "content": "Stay warm. Stay sharp. Stay toasted.",
+      "tags": [
+        "motivation",
+        "positive",
+        "toast"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-038",
+      "type": "toast",
+      "category": "fun",
+      "content": "This toast has main character crunch.",
+      "tags": [
+        "fun",
+        "energy",
+        "toast"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-039",
+      "type": "toast",
+      "category": "api",
+      "content": "Response served hot from the CDN.",
+      "tags": [
+        "api",
+        "cdn",
+        "response"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-040",
+      "type": "toast",
+      "category": "developer",
+      "content": "Your commit is crispy and your branch is clean.",
+      "tags": [
+        "developer",
+        "git",
+        "commit"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-041",
+      "type": "toast",
+      "category": "daily",
+      "content": "Here is your reminder that even bread improves under pressure.",
+      "tags": [
+        "daily",
+        "motivation",
+        "growth"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-042",
+      "type": "toast",
+      "category": "fun",
+      "content": "Toast status: golden, dramatic, and slightly overconfident.",
+      "tags": [
+        "fun",
+        "toast",
+        "confidence"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-043",
+      "type": "toast",
+      "category": "developer",
+      "content": "Your code review is done. Only minor crumbs remain.",
+      "tags": [
+        "developer",
+        "code-review",
+        "github"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-044",
+      "type": "toast",
+      "category": "api",
+      "content": "No backend, no problem. Toast still served.",
+      "tags": [
+        "api",
+        "static-api",
+        "github-pages"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-045",
+      "type": "toast",
+      "category": "motivation",
+      "content": "Pop up again. That is how toast wins.",
+      "tags": [
+        "motivation",
+        "resilience",
+        "toast"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-046",
+      "type": "toast",
+      "category": "fun",
+      "content": "Freshly toasted and emotionally available.",
+      "tags": [
+        "fun",
+        "random",
+        "toast"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-047",
+      "type": "toast",
+      "category": "developer",
+      "content": "Your README is toasted, branded, and badge-ready.",
+      "tags": [
+        "developer",
+        "readme",
+        "github"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-048",
+      "type": "toast",
+      "category": "productivity",
+      "content": "Less scrolling. More toasting.",
+      "tags": [
+        "productivity",
+        "focus",
+        "work"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-049",
+      "type": "toast",
+      "category": "api",
+      "content": "CDN-powered toast has entered the chat.",
+      "tags": [
+        "api",
+        "cdn",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-050",
+      "type": "toast",
+      "category": "developer",
+      "content": "Your bug left quietly. The toast stayed.",
+      "tags": [
+        "developer",
+        "debugging",
+        "success"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-051",
+      "type": "toast",
+      "category": "daily",
+      "content": "Good morning. Your toast believes in you.",
+      "tags": [
+        "daily",
+        "morning",
+        "positive"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-052",
+      "type": "toast",
+      "category": "fun",
+      "content": "This toast is gluten-free in spirit, not legally.",
+      "tags": [
+        "fun",
+        "toast",
+        "random"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-053",
+      "type": "toast",
+      "category": "developer",
+      "content": "Your API docs are warm, crispy, and understandable.",
+      "tags": [
+        "developer",
+        "api",
+        "documentation"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-054",
+      "type": "toast",
+      "category": "motivation",
+      "content": "Keep rising. Even toast started as plain bread.",
+      "tags": [
+        "motivation",
+        "growth",
+        "toast"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-055",
+      "type": "toast",
+      "category": "api",
+      "content": "Your static endpoint just served a hot personality.",
+      "tags": [
+        "api",
+        "endpoint",
+        "static-api"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-056",
+      "type": "toast",
+      "category": "fun",
+      "content": "Toast arrived with crunch, confidence, and questionable timing.",
+      "tags": [
+        "fun",
+        "confidence",
+        "toast"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-057",
+      "type": "toast",
+      "category": "developer",
+      "content": "Your release is stable. The toaster salutes you.",
+      "tags": [
+        "developer",
+        "release",
+        "stable"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-058",
+      "type": "toast",
+      "category": "daily",
+      "content": "Today is a good day to pop higher.",
+      "tags": [
+        "daily",
+        "motivation",
+        "energy"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-059",
+      "type": "toast",
+      "category": "api",
+      "content": "Fetched, parsed, toasted, delivered.",
+      "tags": [
+        "api",
+        "json",
+        "toast"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "toast-060",
+      "type": "toast",
+      "category": "fun",
+      "content": "The toaster has spoken. You are officially crispy.",
+      "tags": [
+        "fun",
+        "toast",
+        "crispy"
       ],
       "language": "en",
       "safe": true
