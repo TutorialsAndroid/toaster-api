@@ -4,6 +4,10 @@
 
 ### Fresh random fun, popped hot from a CDN.
 
+<p align="center">
+  <img src="https://img.shields.io/jsdelivr/gh/hm/TutorialsAndroid/toaster-api?style=for-the-badge&logo=jsdelivr&logoColor=white&label=Total%20Monthly%20Requests&color=f97316" />
+</p>
+
 <p>
   <img src="https://img.shields.io/badge/API-Static%20JSON-f97316?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/CDN-jsDelivr-ff7a00?style=for-the-badge&logo=jsdelivr&logoColor=white" />
