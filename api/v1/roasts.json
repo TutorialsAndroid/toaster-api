@@ -9,7 +9,7 @@
     "author": "TutorialsAndroid",
     "endpoint": "roasts"
   },
-  "count": 10,
+  "count": 60,
   "items": [
     {
       "id": "roast-001",
@@ -127,6 +127,656 @@
       "tags": [
         "api",
         "docs"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-011",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your code is not broken. It is just exploring alternative realities.",
+      "tags": [
+        "developer",
+        "code",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-012",
+      "type": "roast",
+      "category": "friendly",
+      "content": "Your loading speed has the patience of a government website.",
+      "tags": [
+        "friendly",
+        "performance",
+        "web"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-013",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your bug fixes create more plot twists than a web series.",
+      "tags": [
+        "developer",
+        "debugging",
+        "bugs"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-014",
+      "type": "roast",
+      "category": "friendly",
+      "content": "You are not slow. You are just rendering life in high quality.",
+      "tags": [
+        "friendly",
+        "fun",
+        "life"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-015",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your variable names look like they were chosen during a keyboard fight.",
+      "tags": [
+        "developer",
+        "naming",
+        "code"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-016",
+      "type": "roast",
+      "category": "api",
+      "content": "Your API response time has enough suspense for a movie trailer.",
+      "tags": [
+        "api",
+        "performance",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-017",
+      "type": "roast",
+      "category": "friendly",
+      "content": "Your confidence is cached, but your plan is still loading.",
+      "tags": [
+        "friendly",
+        "cache",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-018",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your commit history looks like a diary written during a power cut.",
+      "tags": [
+        "developer",
+        "git",
+        "commit"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-019",
+      "type": "roast",
+      "category": "friendly",
+      "content": "You bring main character energy to side quest problems.",
+      "tags": [
+        "friendly",
+        "fun",
+        "energy"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-020",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your CSS is so brave it ignores the layout rules completely.",
+      "tags": [
+        "developer",
+        "css",
+        "frontend"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-021",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your JavaScript has more unexpected behavior than a group chat at midnight.",
+      "tags": [
+        "developer",
+        "javascript",
+        "frontend"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-022",
+      "type": "roast",
+      "category": "friendly",
+      "content": "You are not confused. Your brain is just running in beta mode.",
+      "tags": [
+        "friendly",
+        "beta",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-023",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your README has more ambition than your installation steps.",
+      "tags": [
+        "developer",
+        "readme",
+        "documentation"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-024",
+      "type": "roast",
+      "category": "api",
+      "content": "Your endpoint is so hidden even Postman started asking questions.",
+      "tags": [
+        "api",
+        "postman",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-025",
+      "type": "roast",
+      "category": "friendly",
+      "content": "Your idea is good. It just arrived without luggage.",
+      "tags": [
+        "friendly",
+        "ideas",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-026",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your function does one thing, then secretly starts a family business.",
+      "tags": [
+        "developer",
+        "function",
+        "clean-code"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-027",
+      "type": "roast",
+      "category": "friendly",
+      "content": "Your productivity has excellent branding and questionable delivery.",
+      "tags": [
+        "friendly",
+        "productivity",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-028",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your error handling is basically hope with curly braces.",
+      "tags": [
+        "developer",
+        "errors",
+        "code"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-029",
+      "type": "roast",
+      "category": "api",
+      "content": "Your API documentation is playing hide and seek, and it is winning.",
+      "tags": [
+        "api",
+        "docs",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-030",
+      "type": "roast",
+      "category": "friendly",
+      "content": "You are not late. You are just using legacy timing.",
+      "tags": [
+        "friendly",
+        "legacy",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-031",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your code review comments need their own release notes.",
+      "tags": [
+        "developer",
+        "code-review",
+        "github"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-032",
+      "type": "roast",
+      "category": "friendly",
+      "content": "Your plan has potential. It just needs a charger.",
+      "tags": [
+        "friendly",
+        "planning",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-033",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your project structure looks like every file chose its own career path.",
+      "tags": [
+        "developer",
+        "architecture",
+        "project"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-034",
+      "type": "roast",
+      "category": "api",
+      "content": "Your JSON is valid, but emotionally unstable.",
+      "tags": [
+        "api",
+        "json",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-035",
+      "type": "roast",
+      "category": "friendly",
+      "content": "You are not procrastinating. You are just preheating like a toaster.",
+      "tags": [
+        "friendly",
+        "toast",
+        "productivity"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-036",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your console has seen things even logs refuse to explain.",
+      "tags": [
+        "developer",
+        "console",
+        "debugging"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-037",
+      "type": "roast",
+      "category": "friendly",
+      "content": "Your motivation is strong, but your task list is stronger.",
+      "tags": [
+        "friendly",
+        "tasks",
+        "motivation"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-038",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your backend says scalable, but your folder names say mystery novel.",
+      "tags": [
+        "developer",
+        "backend",
+        "architecture"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-039",
+      "type": "roast",
+      "category": "api",
+      "content": "Your status code is 200, but the confidence is 404.",
+      "tags": [
+        "api",
+        "http",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-040",
+      "type": "roast",
+      "category": "friendly",
+      "content": "You have premium ideas with trial-version execution.",
+      "tags": [
+        "friendly",
+        "ideas",
+        "execution"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-041",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your naming convention has left the meeting and started its own company.",
+      "tags": [
+        "developer",
+        "naming",
+        "clean-code"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-042",
+      "type": "roast",
+      "category": "friendly",
+      "content": "Your focus is like free Wi-Fi. Available, but not always stable.",
+      "tags": [
+        "friendly",
+        "focus",
+        "wifi"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-043",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your tests passed once and immediately became part of company history.",
+      "tags": [
+        "developer",
+        "testing",
+        "quality"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-044",
+      "type": "roast",
+      "category": "api",
+      "content": "Your API is simple, once someone explains it for 45 minutes.",
+      "tags": [
+        "api",
+        "documentation",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-045",
+      "type": "roast",
+      "category": "friendly",
+      "content": "Your schedule has more flexibility than your CSS layout.",
+      "tags": [
+        "friendly",
+        "schedule",
+        "css"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-046",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your refactor created a sequel nobody asked for.",
+      "tags": [
+        "developer",
+        "refactor",
+        "code"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-047",
+      "type": "roast",
+      "category": "friendly",
+      "content": "Your brain has too many tabs open and none of them are responding.",
+      "tags": [
+        "friendly",
+        "tabs",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-048",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your deployment strategy is basically pressing push and whispering good luck.",
+      "tags": [
+        "developer",
+        "deployment",
+        "git"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-049",
+      "type": "roast",
+      "category": "api",
+      "content": "Your request body has commitment issues.",
+      "tags": [
+        "api",
+        "request",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-050",
+      "type": "roast",
+      "category": "friendly",
+      "content": "Your confidence is responsive, but your plan is not mobile-friendly yet.",
+      "tags": [
+        "friendly",
+        "responsive",
+        "planning"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-051",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your comments explain what the code does, but not why it is doing that to us.",
+      "tags": [
+        "developer",
+        "comments",
+        "code"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-052",
+      "type": "roast",
+      "category": "friendly",
+      "content": "You are running on full battery and low direction.",
+      "tags": [
+        "friendly",
+        "focus",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-053",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your merge conflict had more drama than the actual feature.",
+      "tags": [
+        "developer",
+        "git",
+        "merge-conflict"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-054",
+      "type": "roast",
+      "category": "api",
+      "content": "Your API is lightweight because the documentation is missing.",
+      "tags": [
+        "api",
+        "docs",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-055",
+      "type": "roast",
+      "category": "friendly",
+      "content": "Your idea is loading. Please do not refresh your motivation.",
+      "tags": [
+        "friendly",
+        "motivation",
+        "fun"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-056",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your codebase has layers, but unfortunately most of them are confusion.",
+      "tags": [
+        "developer",
+        "codebase",
+        "architecture"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-057",
+      "type": "roast",
+      "category": "friendly",
+      "content": "Your energy is amazing. Your direction is still in draft mode.",
+      "tags": [
+        "friendly",
+        "energy",
+        "planning"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-058",
+      "type": "roast",
+      "category": "developer",
+      "content": "Your build failed so confidently it almost looked intentional.",
+      "tags": [
+        "developer",
+        "build",
+        "ci-cd"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-059",
+      "type": "roast",
+      "category": "api",
+      "content": "Your endpoint has strong personality and weak predictability.",
+      "tags": [
+        "api",
+        "endpoint",
+        "developer"
+      ],
+      "language": "en",
+      "safe": true
+    },
+    {
+      "id": "roast-060",
+      "type": "roast",
+      "category": "toast",
+      "content": "Your toaster API is hot, but your release notes are still warming up.",
+      "tags": [
+        "toast",
+        "api",
+        "release"
       ],
       "language": "en",
       "safe": true
